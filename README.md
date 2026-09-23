@@ -1,0 +1,8 @@
+in this dilemma, contestants are told to choose from 3 doors.
+after they choose, a door that was unpicked and does not have
+a prize behind it is opened, leaving two doors. they are then
+given the option to switch to the other remaining door,
+if they so choose. Most do not switch because they believe
+the odds are equal; in reality, switching gives a 2/3 chance
+of winning, over staying, which gives a 1/3 chance of winning.
+this proves that experimentally through the law of large numbers.
