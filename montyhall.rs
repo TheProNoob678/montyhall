@@ -1,7 +1,11 @@
+use std:io;
+
 fn main() {
+    let mut input = String::new();
+    io::stdin().read_line(&mut input).expect("failed");
 
     // # of iterations
-    static I:i32 = 500000;
+    static I:i32 = input.trim().parse().expect("Not a number")
 
     let mut input_door_list: Vec<i32> = vec![];
     let mut correct_door_list: Vec<i32> = vec![];
